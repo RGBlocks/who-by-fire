@@ -1,0 +1,358 @@
+{
+  "minecraft": {
+    "version": "1.19.2",
+    "modLoaders": [
+      {
+        "id": "fabric-0.14.11",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "overrides": "overrides",
+  "manifestVersion": 1,
+  "version": "1.0.0",
+  "author": "_zentrale",
+  "name": "Guess who's Back",
+  "files": [
+    {
+      "projectID": 273279,
+      "fileID": 3907240,
+      "required": true,
+      "__meta": {
+        "name": "AntiGhost"
+      }
+    },
+    {
+      "projectID": 306612,
+      "fileID": 4162908,
+      "required": true,
+      "__meta": {
+        "name": "Fabric API"
+      }
+    },
+    {
+      "projectID": 308702,
+      "fileID": 4145207,
+      "required": true,
+      "__meta": {
+        "name": "Mod Menu"
+      }
+    },
+    {
+      "projectID": 308769,
+      "fileID": 4123973,
+      "required": true,
+      "__meta": {
+        "name": "Fabric Language Kotlin"
+      }
+    },
+    {
+      "projectID": 310205,
+      "fileID": 3865813,
+      "required": true,
+      "__meta": {
+        "name": "Borderless Mining"
+      }
+    },
+    {
+      "projectID": 335493,
+      "fileID": 3829250,
+      "required": true,
+      "__meta": {
+        "name": "Dynamic FPS",
+        "dependencies": [
+          306612,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 348521,
+      "fileID": 3972420,
+      "required": true,
+      "__meta": {
+        "name": "Cloth Config API (Fabric/Forge)"
+      }
+    },
+    {
+      "projectID": 360438,
+      "fileID": 4151762,
+      "required": true,
+      "__meta": {
+        "name": "Lithium (Fabric)"
+      }
+    },
+    {
+      "projectID": 374274,
+      "fileID": 2934596,
+      "required": true,
+      "__meta": {
+        "name": "Your Options Shall Be Respected (YOSBR)"
+      }
+    },
+    {
+      "projectID": 393442,
+      "fileID": 3824820,
+      "required": true,
+      "__meta": {
+        "name": "LambDynamicLights",
+        "dependencies": [
+          306612,
+          308702
+        ]
+      }
+    },
+    {
+      "projectID": 394468,
+      "fileID": 3957319,
+      "required": true,
+      "__meta": {
+        "name": "Sodium"
+      }
+    },
+    {
+      "projectID": 399798,
+      "fileID": 3854720,
+      "required": true,
+      "__meta": {
+        "name": "Item Model Fix (Fabric)"
+      }
+    },
+    {
+      "projectID": 400322,
+      "fileID": 3834055,
+      "required": true,
+      "__meta": {
+        "name": "LambdaBetterGrass",
+        "dependencies": [
+          308702,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 403815,
+      "fileID": 3907238,
+      "required": true,
+      "__meta": {
+        "name": "AdvancementInfo"
+      }
+    },
+    {
+      "projectID": 404870,
+      "fileID": 4017838,
+      "required": true,
+      "__meta": {
+        "name": "Fabrishot",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 415758,
+      "fileID": 3821513,
+      "required": true,
+      "__meta": {
+        "name": "Smooth Boot (Fabric)"
+      }
+    },
+    {
+      "projectID": 433447,
+      "fileID": 3831043,
+      "required": true,
+      "__meta": {
+        "name": "MixinTrace"
+      }
+    },
+    {
+      "projectID": 433518,
+      "fileID": 3821870,
+      "required": true,
+      "__meta": {
+        "name": "LazyDFU"
+      }
+    },
+    {
+      "projectID": 447673,
+      "fileID": 4126062,
+      "required": true,
+      "__meta": {
+        "name": "Sodium Extra",
+        "dependencies": [
+          306612,
+          394468
+        ]
+      }
+    },
+    {
+      "projectID": 448233,
+      "fileID": 3823508,
+      "required": true,
+      "__meta": {
+        "name": "Entity Culling Fabric/Forge"
+      }
+    },
+    {
+      "projectID": 452046,
+      "fileID": 4046700,
+      "required": true,
+      "__meta": {
+        "name": "Enhanced Block Entities",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 455508,
+      "fileID": 4143801,
+      "required": true,
+      "__meta": {
+        "name": "Iris Shaders",
+        "dependencies": [
+          394468
+        ]
+      }
+    },
+    {
+      "projectID": 459496,
+      "fileID": 3957480,
+      "required": true,
+      "__meta": {
+        "name": "Indium",
+        "dependencies": [
+          394468
+        ]
+      }
+    },
+    {
+      "projectID": 459857,
+      "fileID": 4117902,
+      "required": true,
+      "__meta": {
+        "name": "FerriteCore (Fabric)"
+      }
+    },
+    {
+      "projectID": 511319,
+      "fileID": 4126247,
+      "required": true,
+      "__meta": {
+        "name": "Reese's Sodium Options",
+        "dependencies": [
+          394468
+        ]
+      }
+    },
+    {
+      "projectID": 521783,
+      "fileID": 3835973,
+      "required": true,
+      "__meta": {
+        "name": "Starlight (Fabric)"
+      }
+    },
+    {
+      "projectID": 527334,
+      "fileID": 4127477,
+      "required": true,
+      "__meta": {
+        "name": "Language Reload",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 574741,
+      "fileID": 4142162,
+      "required": true,
+      "__meta": {
+        "name": "Zoomify",
+        "dependencies": [
+          308769,
+          667299,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 579192,
+      "fileID": 4135258,
+      "required": true,
+      "__meta": {
+        "name": "Farsight [Fabric]"
+      }
+    },
+    {
+      "projectID": 596224,
+      "fileID": 4060233,
+      "required": true,
+      "__meta": {
+        "name": "Debugify",
+        "dependencies": [
+          667299
+        ]
+      }
+    },
+    {
+      "projectID": 619718,
+      "fileID": 4002520,
+      "required": true,
+      "__meta": {
+        "name": "Cull Less Leaves",
+        "dependencies": [
+          667299
+        ]
+      }
+    },
+    {
+      "projectID": 621768,
+      "fileID": 4054105,
+      "required": true,
+      "__meta": {
+        "name": "MidnightControls",
+        "dependencies": [
+          488090
+        ]
+      }
+    },
+    {
+      "projectID": 627566,
+      "fileID": 4147605,
+      "required": true,
+      "__meta": {
+        "name": "MemoryLeakFix"
+      }
+    },
+    {
+      "projectID": 634062,
+      "fileID": 4082460,
+      "required": true,
+      "__meta": {
+        "name": "No Chat Reports"
+      }
+    },
+    {
+      "projectID": 643052,
+      "fileID": 3942300,
+      "required": true,
+      "__meta": {
+        "name": "Mixin Conflict Helper"
+      }
+    },
+    {
+      "projectID": 667299,
+      "fileID": 4087063,
+      "required": true,
+      "__meta": {
+        "name": "YetAnotherConfigLib",
+        "dependencies": [
+          306612
+        ]
+      }
+    }
+  ]
+}
