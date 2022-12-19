@@ -287,6 +287,14 @@
       }
     },
     {
+      "projectID": 580555,
+      "fileID": 4181350,
+      "required": true,
+      "__meta": {
+        "name": "EMI (Item and Recipe Viewer)"
+      }
+    },
+    {
       "projectID": 596224,
       "fileID": 4060233,
       "required": true,
@@ -305,17 +313,6 @@
         "name": "Cull Less Leaves",
         "dependencies": [
           667299
-        ]
-      }
-    },
-    {
-      "projectID": 621768,
-      "fileID": 4054105,
-      "required": true,
-      "__meta": {
-        "name": "MidnightControls",
-        "dependencies": [
-          488090
         ]
       }
     },
@@ -351,6 +348,40 @@
         "name": "YetAnotherConfigLib",
         "dependencies": [
           306612
+        ]
+      }
+    },
+    {
+      "projectID": 681783,
+      "fileID": 4159530,
+      "required": true,
+      "__meta": {
+        "name": "EMI Loot",
+        "dependencies": [
+          580555,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 735523,
+      "fileID": 4171479,
+      "required": true,
+      "__meta": {
+        "name": "EMI Trades (Villager Trading EMI Plugin)",
+        "dependencies": [
+          580555
+        ]
+      }
+    },
+    {
+      "projectID": 735528,
+      "fileID": 4171487,
+      "required": true,
+      "__meta": {
+        "name": "EMIffect (Status Effects EMI Plugin)",
+        "dependencies": [
+          580555
         ]
       }
     }
