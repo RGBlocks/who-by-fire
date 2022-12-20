@@ -68,6 +68,15 @@
       }
     },
     {
+      "projectID": 341284,
+      "fileID": 4100104,
+      "required": true,
+      "__meta": {
+        "name": "Trinkets (Fabric)",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 348521,
       "fileID": 3972420,
       "required": true,
@@ -89,6 +98,15 @@
       "required": true,
       "__meta": {
         "name": "Your Options Shall Be Respected (YOSBR)"
+      }
+    },
+    {
+      "projectID": 393236,
+      "fileID": 4031404,
+      "required": true,
+      "__meta": {
+        "name": "Patchouli (Fabric/Quilt)",
+        "explicit": false
       }
     },
     {
@@ -266,6 +284,31 @@
       }
     },
     {
+      "projectID": 532610,
+      "fileID": 4152949,
+      "required": true,
+      "__meta": {
+        "name": "oωo (owo-lib)",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 556967,
+      "fileID": 4142056,
+      "required": true,
+      "__meta": {
+        "name": "Spectrum",
+        "dependencies": [
+          393236,
+          532610,
+          348521,
+          341284,
+          306612,
+          656526
+        ]
+      }
+    },
+    {
       "projectID": 574741,
       "fileID": 4142162,
       "required": true,
@@ -338,6 +381,18 @@
       "required": true,
       "__meta": {
         "name": "Mixin Conflict Helper"
+      }
+    },
+    {
+      "projectID": 656526,
+      "fileID": 4165232,
+      "required": true,
+      "__meta": {
+        "name": "Revelationary",
+        "explicit": false,
+        "dependencies": [
+          306612
+        ]
       }
     },
     {
