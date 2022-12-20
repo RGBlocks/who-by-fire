@@ -110,6 +110,31 @@
       }
     },
     {
+      "projectID": 388172,
+      "fileID": 4181375,
+      "required": true,
+      "__meta": {
+        "name": "GeckoLib",
+        "explicit": false,
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 391257,
+      "fileID": 4066643,
+      "required": true,
+      "__meta": {
+        "name": "Haema",
+        "dependencies": [
+          388172,
+          306612,
+          308769
+        ]
+      }
+    },
+    {
       "projectID": 393236,
       "fileID": 4031404,
       "required": true,
