@@ -45,6 +45,17 @@
       }
     },
     {
+      "projectID": 292908,
+      "fileID": 4073907,
+      "required": true,
+      "__meta": {
+        "name": "Illuminations 🔥",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 306612,
       "fileID": 4162908,
       "required": true,
@@ -115,6 +126,17 @@
       }
     },
     {
+      "projectID": 349938,
+      "fileID": 3838824,
+      "required": true,
+      "__meta": {
+        "name": "BLAST 💣",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 360438,
       "fileID": 4151762,
       "required": true,
@@ -128,6 +150,19 @@
       "required": true,
       "__meta": {
         "name": "Your Options Shall Be Respected (YOSBR)"
+      }
+    },
+    {
+      "projectID": 385463,
+      "fileID": 3864173,
+      "required": true,
+      "__meta": {
+        "name": "Satin API",
+        "explicit": false,
+        "dependencies": [
+          306612,
+          306612
+        ]
       }
     },
     {
@@ -342,6 +377,17 @@
       }
     },
     {
+      "projectID": 478843,
+      "fileID": 3823512,
+      "required": true,
+      "__meta": {
+        "name": "Impaled 🔱",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 495509,
       "fileID": 4132205,
       "required": true,
@@ -398,6 +444,18 @@
       "__meta": {
         "name": "oωo (owo-lib)",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 556381,
+      "fileID": 4036489,
+      "required": true,
+      "__meta": {
+        "name": "Effective 💦",
+        "dependencies": [
+          306612,
+          385463
+        ]
       }
     },
     {
@@ -478,6 +536,18 @@
         "name": "Debugify",
         "dependencies": [
           667299
+        ]
+      }
+    },
+    {
+      "projectID": 596706,
+      "fileID": 4058476,
+      "required": true,
+      "__meta": {
+        "name": "Pick Your Poison 🐸",
+        "dependencies": [
+          306612,
+          388172
         ]
       }
     },
