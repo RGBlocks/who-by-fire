@@ -56,6 +56,15 @@
       }
     },
     {
+      "projectID": 318449,
+      "fileID": 3954769,
+      "required": true,
+      "__meta": {
+        "name": "Cardinal Components",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 335493,
       "fileID": 3829250,
       "required": true,
@@ -309,6 +318,22 @@
       }
     },
     {
+      "projectID": 569849,
+      "fileID": 4132955,
+      "required": true,
+      "__meta": {
+        "name": "Hex Casting",
+        "dependencies": [
+          348521,
+          597824,
+          393236,
+          308769,
+          306612,
+          318449
+        ]
+      }
+    },
+    {
       "projectID": 574741,
       "fileID": 4142162,
       "required": true,
@@ -346,6 +371,15 @@
         "dependencies": [
           667299
         ]
+      }
+    },
+    {
+      "projectID": 597824,
+      "fileID": 4100643,
+      "required": true,
+      "__meta": {
+        "name": "PAUCAL",
+        "explicit": false
       }
     },
     {
