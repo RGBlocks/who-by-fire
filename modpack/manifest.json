@@ -263,6 +263,17 @@
       }
     },
     {
+      "projectID": 495509,
+      "fileID": 4132205,
+      "required": true,
+      "__meta": {
+        "name": "Spirit",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 511319,
       "fileID": 4126247,
       "required": true,
@@ -331,6 +342,15 @@
           306612,
           318449
         ]
+      }
+    },
+    {
+      "projectID": 570073,
+      "fileID": 4105041,
+      "required": true,
+      "__meta": {
+        "name": "Resourceful Lib",
+        "explicit": false
       }
     },
     {
@@ -441,6 +461,20 @@
       }
     },
     {
+      "projectID": 659274,
+      "fileID": 4102436,
+      "required": true,
+      "__meta": {
+        "name": "Vitalize",
+        "dependencies": [
+          495509,
+          570073,
+          704113,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 667299,
       "fileID": 4087063,
       "required": true,
@@ -469,6 +503,32 @@
       "required": true,
       "__meta": {
         "name": "Exordium"
+      }
+    },
+    {
+      "projectID": 688879,
+      "fileID": 4102430,
+      "required": true,
+      "__meta": {
+        "name": "Reaper",
+        "dependencies": [
+          704113,
+          495509,
+          570073,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 704113,
+      "fileID": 4214141,
+      "required": true,
+      "__meta": {
+        "name": "Botarium",
+        "explicit": false,
+        "dependencies": [
+          306612
+        ]
       }
     },
     {
