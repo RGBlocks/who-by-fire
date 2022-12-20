@@ -16,6 +16,27 @@
   "name": "Guess who's Back",
   "files": [
     {
+      "projectID": 228525,
+      "fileID": 4153135,
+      "required": true,
+      "__meta": {
+        "name": "Bookshelf",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 250419,
+      "fileID": 4178476,
+      "required": true,
+      "__meta": {
+        "name": "Enchantment Descriptions",
+        "explicit": false,
+        "dependencies": [
+          228525
+        ]
+      }
+    },
+    {
       "projectID": 273279,
       "fileID": 3907240,
       "required": true,
@@ -200,6 +221,15 @@
         "dependencies": [
           306612
         ]
+      }
+    },
+    {
+      "projectID": 411557,
+      "fileID": 4087782,
+      "required": true,
+      "__meta": {
+        "name": "ToolTipFix",
+        "explicit": false
       }
     },
     {
@@ -438,6 +468,20 @@
       "__meta": {
         "name": "PAUCAL",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 598056,
+      "fileID": 4071155,
+      "required": true,
+      "__meta": {
+        "name": "Enchancement",
+        "dependencies": [
+          250419,
+          306612,
+          228525,
+          411557
+        ]
       }
     },
     {
