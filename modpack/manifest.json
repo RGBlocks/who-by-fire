@@ -523,6 +523,17 @@
       }
     },
     {
+      "projectID": 639653,
+      "fileID": 4160530,
+      "required": true,
+      "__meta": {
+        "name": "Dave's Potioneering",
+        "dependencies": [
+          388172
+        ]
+      }
+    },
+    {
       "projectID": 643052,
       "fileID": 3942300,
       "required": true,
