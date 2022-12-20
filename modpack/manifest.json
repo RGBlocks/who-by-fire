@@ -145,6 +145,27 @@
       }
     },
     {
+      "projectID": 371033,
+      "fileID": 4063269,
+      "required": true,
+      "__meta": {
+        "name": "Rotten Creatures"
+      }
+    },
+    {
+      "projectID": 373591,
+      "fileID": 4031205,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Better Mineshafts (Fabric)",
+        "dependencies": [
+          348521,
+          421649,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 374274,
       "fileID": 2934596,
       "required": true,
@@ -287,6 +308,18 @@
       }
     },
     {
+      "projectID": 421649,
+      "fileID": 4035003,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's API (Fabric)",
+        "explicit": false,
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 421839,
       "fileID": 4161119,
       "required": true,
@@ -396,6 +429,31 @@
       }
     },
     {
+      "projectID": 480684,
+      "fileID": 4031215,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Better Strongholds (Fabric)",
+        "dependencies": [
+          348521,
+          306612,
+          421649
+        ]
+      }
+    },
+    {
+      "projectID": 495191,
+      "fileID": 4160242,
+      "required": true,
+      "__meta": {
+        "name": "BCLib",
+        "explicit": false,
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 495509,
       "fileID": 4132205,
       "required": true,
@@ -435,6 +493,19 @@
       }
     },
     {
+      "projectID": 525586,
+      "fileID": 4031673,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Better Dungeons (Fabric)",
+        "dependencies": [
+          348521,
+          421649,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 527334,
       "fileID": 4127477,
       "required": true,
@@ -452,6 +523,18 @@
       "__meta": {
         "name": "oωo (owo-lib)",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 536638,
+      "fileID": 4104666,
+      "required": true,
+      "__meta": {
+        "name": "Enderscape",
+        "dependencies": [
+          306612,
+          495191
+        ]
       }
     },
     {
@@ -537,6 +620,32 @@
       }
     },
     {
+      "projectID": 590988,
+      "fileID": 4031234,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Bridges (Fabric)",
+        "dependencies": [
+          421649,
+          306612,
+          348521
+        ]
+      }
+    },
+    {
+      "projectID": 590993,
+      "fileID": 4031232,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Extras (Fabric)",
+        "dependencies": [
+          306612,
+          421649,
+          348521
+        ]
+      }
+    },
+    {
       "projectID": 596224,
       "fileID": 4060233,
       "required": true,
@@ -610,6 +719,30 @@
       "required": true,
       "__meta": {
         "name": "MemoryLeakFix"
+      }
+    },
+    {
+      "projectID": 627986,
+      "fileID": 3930808,
+      "required": true,
+      "__meta": {
+        "name": "Naturalist",
+        "dependencies": [
+          388172
+        ]
+      }
+    },
+    {
+      "projectID": 631403,
+      "fileID": 4031228,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Better Witch Huts (Fabric)",
+        "dependencies": [
+          348521,
+          306612,
+          421649
+        ]
       }
     },
     {
@@ -718,6 +851,19 @@
           495509,
           570073,
           306612
+        ]
+      }
+    },
+    {
+      "projectID": 689252,
+      "fileID": 4031419,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Better Ocean Monuments (Fabric)",
+        "dependencies": [
+          306612,
+          348521,
+          421649
         ]
       }
     },
