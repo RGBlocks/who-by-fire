@@ -523,6 +523,20 @@
       }
     },
     {
+      "projectID": 635042,
+      "fileID": 4162320,
+      "required": true,
+      "__meta": {
+        "name": "Ad Astra!",
+        "dependencies": [
+          306612,
+          570073,
+          714059,
+          704113
+        ]
+      }
+    },
+    {
       "projectID": 639653,
       "fileID": 4160530,
       "required": true,
@@ -630,6 +644,15 @@
         "dependencies": [
           306612
         ]
+      }
+    },
+    {
+      "projectID": 714059,
+      "fileID": 4215269,
+      "required": true,
+      "__meta": {
+        "name": "Resourceful Config",
+        "explicit": false
       }
     },
     {
