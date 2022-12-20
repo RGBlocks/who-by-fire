@@ -233,6 +233,17 @@
       }
     },
     {
+      "projectID": 412082,
+      "fileID": 4172002,
+      "required": true,
+      "__meta": {
+        "name": "Supplementaries",
+        "dependencies": [
+          499980
+        ]
+      }
+    },
+    {
       "projectID": 415758,
       "fileID": 3821513,
       "required": true,
@@ -339,6 +350,15 @@
         "dependencies": [
           306612
         ]
+      }
+    },
+    {
+      "projectID": 499980,
+      "fileID": 4174745,
+      "required": true,
+      "__meta": {
+        "name": "Moonlight Lib",
+        "explicit": false
       }
     },
     {
