@@ -186,6 +186,19 @@
       }
     },
     {
+      "projectID": 421839,
+      "fileID": 4161119,
+      "required": true,
+      "__meta": {
+        "name": "Botania (Fabric/Quilt)",
+        "dependencies": [
+          306612,
+          393236,
+          341284
+        ]
+      }
+    },
+    {
       "projectID": 433447,
       "fileID": 3831043,
       "required": true,
