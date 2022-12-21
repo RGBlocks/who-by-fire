@@ -134,6 +134,14 @@
       }
     },
     {
+      "projectID": 317514,
+      "fileID": 4223900,
+      "required": true,
+      "__meta": {
+        "name": "Mouse Wheelie (Fabric)"
+      }
+    },
+    {
       "projectID": 318449,
       "fileID": 3954769,
       "required": true,
@@ -585,19 +593,6 @@
         "explicit": false,
         "dependencies": [
           306612
-        ]
-      }
-    },
-    {
-      "projectID": 495267,
-      "fileID": 4171821,
-      "required": true,
-      "__meta": {
-        "name": "Inventory Profiles Next",
-        "dependencies": [
-          679177,
-          306612,
-          308769
         ]
       }
     },
@@ -1243,19 +1238,6 @@
       "__meta": {
         "name": "YetAnotherConfigLib",
         "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
-      "projectID": 679177,
-      "fileID": 4171801,
-      "required": true,
-      "__meta": {
-        "name": "libIPN",
-        "explicit": false,
-        "dependencies": [
-          308769,
           306612
         ]
       }

@@ -129,6 +129,11 @@ key_key.jade.toggle_liquid:key.keyboard.keypad.2
 key_key.jade.narrate:key.keyboard.keypad.5
 key_key.togglePlaques:key.keyboard.j
 key_key.modmenu.open_menu:key.keyboard.unknown
+key_key.mousewheelie.open_config_screen:key.keyboard.unknown
+key_key.mousewheelie.sort_inventory:key.keyboard.r
+key_key.mousewheelie.scroll_up:key.amecsapi.mouse.scroll.up
+key_key.mousewheelie.scroll_down:key.amecsapi.mouse.scroll.down
+key_key.mousewheelie.pick_tool:key.keyboard.unknown
 key_key.packed-inventory.interact_with_item:key.mouse.middle
 key_key.packed-inventory.invert_tooltip_visibility:key.keyboard.left.shift
 key_key.packed-inventory.invert_tooltip_compact_mode:key.keyboard.c
