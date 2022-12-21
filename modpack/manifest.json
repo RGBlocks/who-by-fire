@@ -442,6 +442,17 @@
       }
     },
     {
+      "projectID": 494585,
+      "fileID": 3825040,
+      "required": true,
+      "__meta": {
+        "name": "Nether Chest (Fabric)",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 495191,
       "fileID": 4160242,
       "required": true,
@@ -754,6 +765,17 @@
       }
     },
     {
+      "projectID": 633518,
+      "fileID": 3836816,
+      "required": true,
+      "__meta": {
+        "name": "Shifty Hotbar",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 634062,
       "fileID": 4082460,
       "required": true,
@@ -773,6 +795,14 @@
           714059,
           704113
         ]
+      }
+    },
+    {
+      "projectID": 641196,
+      "fileID": 3916754,
+      "required": true,
+      "__meta": {
+        "name": "Packed Inventory"
       }
     },
     {
