@@ -834,6 +834,14 @@
       }
     },
     {
+      "projectID": 657667,
+      "fileID": 3970121,
+      "required": true,
+      "__meta": {
+        "name": "EnchantedShulkers"
+      }
+    },
+    {
       "projectID": 659274,
       "fileID": 4102436,
       "required": true,

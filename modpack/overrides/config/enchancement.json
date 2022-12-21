@@ -39,7 +39,9 @@
     "minecraft:silk_touch",
     "minecraft:smite",
     "minecraft:feather_falling",
-    "supplementaries:stasis"
+    "supplementaries:stasis",
+    "enchantedshulkers:siphon",
+    "enchantedshulkers:refill"
   ],
   "invertedList": false,
   "overhaulEnchantingTable": true,
