@@ -3,7 +3,7 @@
     "version": "1.19.2",
     "modLoaders": [
       {
-        "id": "fabric-0.14.11",
+        "id": "fabric-0.14.12",
         "primary": true
       }
     ]
@@ -1365,6 +1365,18 @@
         "name": "EMIffect (Status Effects EMI Plugin)",
         "dependencies": [
           580555
+        ]
+      }
+    },
+    {
+      "projectID": 759430,
+      "fileID": 4226253,
+      "required": true,
+      "__meta": {
+        "name": "Lifesteal [Fabric]",
+        "dependencies": [
+          306612,
+          348521
         ]
       }
     }
