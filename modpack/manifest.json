@@ -210,6 +210,14 @@
       }
     },
     {
+      "projectID": 362528,
+      "fileID": 3941637,
+      "required": true,
+      "__meta": {
+        "name": "Decorative Blocks"
+      }
+    },
+    {
       "projectID": 371033,
       "fileID": 4063269,
       "required": true,
@@ -385,6 +393,18 @@
       }
     },
     {
+      "projectID": 417510,
+      "fileID": 4101831,
+      "required": true,
+      "__meta": {
+        "name": "Falling Leaves (Fabric)",
+        "dependencies": [
+          306612,
+          348521
+        ]
+      }
+    },
+    {
       "projectID": 421649,
       "fileID": 4035003,
       "required": true,
@@ -527,6 +547,17 @@
       }
     },
     {
+      "projectID": 482834,
+      "fileID": 4111426,
+      "required": true,
+      "__meta": {
+        "name": "Farmer's Delight [Fabric]",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 494585,
       "fileID": 3825040,
       "required": true,
@@ -618,6 +649,18 @@
       }
     },
     {
+      "projectID": 521126,
+      "fileID": 4092154,
+      "required": true,
+      "__meta": {
+        "name": "Visuality",
+        "dependencies": [
+          348521,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 521783,
       "fileID": 3835973,
       "required": true,
@@ -679,6 +722,17 @@
       }
     },
     {
+      "projectID": 538214,
+      "fileID": 4215478,
+      "required": true,
+      "__meta": {
+        "name": "Handcrafted",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 539382,
       "fileID": 3922111,
       "required": true,
@@ -710,6 +764,14 @@
         "dependencies": [
           306612
         ]
+      }
+    },
+    {
+      "projectID": 551763,
+      "fileID": 4047203,
+      "required": true,
+      "__meta": {
+        "name": "Chisel Refabricated"
       }
     },
     {
@@ -790,6 +852,17 @@
       }
     },
     {
+      "projectID": 574913,
+      "fileID": 4147439,
+      "required": true,
+      "__meta": {
+        "name": "Critters and Companions",
+        "dependencies": [
+          388172
+        ]
+      }
+    },
+    {
       "projectID": 575663,
       "fileID": 3913694,
       "required": true,
@@ -840,6 +913,14 @@
           421649,
           348521
         ]
+      }
+    },
+    {
+      "projectID": 591666,
+      "fileID": 4075724,
+      "required": true,
+      "__meta": {
+        "name": "Overweight Farming"
       }
     },
     {
@@ -1003,6 +1084,22 @@
           714059,
           704113
         ]
+      }
+    },
+    {
+      "projectID": 640001,
+      "fileID": 3859737,
+      "required": true,
+      "__meta": {
+        "name": "Factory Blocks"
+      }
+    },
+    {
+      "projectID": 640973,
+      "fileID": 4028113,
+      "required": true,
+      "__meta": {
+        "name": "Grass Overhaul"
       }
     },
     {
