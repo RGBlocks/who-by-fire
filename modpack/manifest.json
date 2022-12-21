@@ -377,6 +377,14 @@
       }
     },
     {
+      "projectID": 443476,
+      "fileID": 3852016,
+      "required": true,
+      "__meta": {
+        "name": "Wandering Collector"
+      }
+    },
+    {
       "projectID": 447673,
       "fileID": 4126062,
       "required": true,
@@ -589,6 +597,14 @@
       }
     },
     {
+      "projectID": 535541,
+      "fileID": 3855436,
+      "required": true,
+      "__meta": {
+        "name": "Chalk (Fabric)"
+      }
+    },
+    {
       "projectID": 536638,
       "fileID": 4104666,
       "required": true,
@@ -674,6 +690,17 @@
           308769,
           667299,
           306612
+        ]
+      }
+    },
+    {
+      "projectID": 575663,
+      "fileID": 3913694,
+      "required": true,
+      "__meta": {
+        "name": "Faster Tools",
+        "dependencies": [
+          348521
         ]
       }
     },
@@ -771,6 +798,28 @@
       "required": true,
       "__meta": {
         "name": "Colorful Azaleas"
+      }
+    },
+    {
+      "projectID": 615948,
+      "fileID": 4132193,
+      "required": true,
+      "__meta": {
+        "name": "TieredZ",
+        "dependencies": [
+          618433,
+          348521,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 618433,
+      "fileID": 3989400,
+      "required": true,
+      "__meta": {
+        "name": "AutoTag",
+        "explicit": false
       }
     },
     {
@@ -885,6 +934,50 @@
       }
     },
     {
+      "projectID": 643780,
+      "fileID": 4147216,
+      "required": true,
+      "__meta": {
+        "name": "Projectile Damage Attribute [Fabric & Forge]",
+        "explicit": false,
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 645559,
+      "fileID": 4160614,
+      "required": true,
+      "__meta": {
+        "name": "Dungeon Difficulty [Fabric]",
+        "dependencies": [
+          643780,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 649882,
+      "fileID": 3925553,
+      "required": true,
+      "__meta": {
+        "name": "Doodads [Fabric]",
+        "dependencies": [
+          341284,
+          348521
+        ]
+      }
+    },
+    {
+      "projectID": 649925,
+      "fileID": 3908990,
+      "required": true,
+      "__meta": {
+        "name": "Aileron"
+      }
+    },
+    {
       "projectID": 656526,
       "fileID": 4165232,
       "required": true,
@@ -960,6 +1053,17 @@
       "required": true,
       "__meta": {
         "name": "Exordium"
+      }
+    },
+    {
+      "projectID": 686179,
+      "fileID": 4022425,
+      "required": true,
+      "__meta": {
+        "name": "Quick Stack [Fabric]",
+        "dependencies": [
+          348521
+        ]
       }
     },
     {

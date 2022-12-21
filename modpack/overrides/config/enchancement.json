@@ -41,7 +41,9 @@
     "minecraft:feather_falling",
     "supplementaries:stasis",
     "enchantedshulkers:siphon",
-    "enchantedshulkers:refill"
+    "enchantedshulkers:refill",
+    "aileron:smokestack",
+    "aileron:cloudskipper"
   ],
   "invertedList": false,
   "overhaulEnchantingTable": true,
