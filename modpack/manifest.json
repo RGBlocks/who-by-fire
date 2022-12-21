@@ -1263,17 +1263,6 @@
       }
     },
     {
-      "projectID": 686179,
-      "fileID": 4022425,
-      "required": true,
-      "__meta": {
-        "name": "Quick Stack [Fabric]",
-        "dependencies": [
-          348521
-        ]
-      }
-    },
-    {
       "projectID": 686434,
       "fileID": 4019744,
       "required": true,
