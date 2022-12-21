@@ -33,6 +33,25 @@
       }
     },
     {
+      "projectID": 248787,
+      "fileID": 3927567,
+      "required": true,
+      "__meta": {
+        "name": "AppleSkin",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 250398,
+      "fileID": 4050342,
+      "required": true,
+      "__meta": {
+        "name": "Controlling"
+      }
+    },
+    {
       "projectID": 250419,
       "fileID": 4178476,
       "required": true,
@@ -50,6 +69,17 @@
       "required": true,
       "__meta": {
         "name": "Clumps"
+      }
+    },
+    {
+      "projectID": 263466,
+      "fileID": 4135353,
+      "required": true,
+      "__meta": {
+        "name": "Xaero's Minimap (Fair-play Edition)",
+        "dependencies": [
+          306612
+        ]
       }
     },
     {
@@ -110,6 +140,25 @@
       "__meta": {
         "name": "Cardinal Components",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 324717,
+      "fileID": 4159776,
+      "required": true,
+      "__meta": {
+        "name": "Jade 🔍"
+      }
+    },
+    {
+      "projectID": 325861,
+      "fileID": 3832027,
+      "required": true,
+      "__meta": {
+        "name": "Smooth Scrolling Everywhere (Fabric)",
+        "dependencies": [
+          348521
+        ]
       }
     },
     {
@@ -514,6 +563,19 @@
       }
     },
     {
+      "projectID": 495476,
+      "fileID": 4041205,
+      "required": true,
+      "__meta": {
+        "name": "Puzzles Lib",
+        "explicit": false,
+        "dependencies": [
+          547434,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 495509,
       "fileID": 4132205,
       "required": true,
@@ -613,6 +675,40 @@
         "dependencies": [
           306612,
           495191
+        ]
+      }
+    },
+    {
+      "projectID": 539382,
+      "fileID": 3922111,
+      "required": true,
+      "__meta": {
+        "name": "Iceberg [Fabric]",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 541578,
+      "fileID": 3921941,
+      "required": true,
+      "__meta": {
+        "name": "Item Highlighter [Fabric]",
+        "dependencies": [
+          306612,
+          539382,
+          547434
+        ]
+      }
+    },
+    {
+      "projectID": 547434,
+      "fileID": 4143545,
+      "required": true,
+      "__meta": {
+        "name": "Forge Config API Port",
+        "explicit": false,
+        "dependencies": [
+          306612
         ]
       }
     },
@@ -990,6 +1086,17 @@
       }
     },
     {
+      "projectID": 656665,
+      "fileID": 4096405,
+      "required": true,
+      "__meta": {
+        "name": "Jade Addons (Fabric)",
+        "dependencies": [
+          324717
+        ]
+      }
+    },
+    {
       "projectID": 657667,
       "fileID": 3970121,
       "required": true,
@@ -1008,6 +1115,19 @@
           570073,
           704113,
           306612
+        ]
+      }
+    },
+    {
+      "projectID": 666940,
+      "fileID": 4067996,
+      "required": true,
+      "__meta": {
+        "name": "Bartering Station",
+        "dependencies": [
+          495476,
+          306612,
+          547434
         ]
       }
     },
@@ -1063,6 +1183,19 @@
         "name": "Quick Stack [Fabric]",
         "dependencies": [
           348521
+        ]
+      }
+    },
+    {
+      "projectID": 686434,
+      "fileID": 4019744,
+      "required": true,
+      "__meta": {
+        "name": "Mob Plaques",
+        "dependencies": [
+          306612,
+          495476,
+          547434
         ]
       }
     },
