@@ -682,6 +682,14 @@
       }
     },
     {
+      "projectID": 498794,
+      "fileID": 4085654,
+      "required": true,
+      "__meta": {
+        "name": "Iron Chests: Restocked"
+      }
+    },
+    {
       "projectID": 499980,
       "fileID": 4174745,
       "required": true,
