@@ -102,6 +102,17 @@
       }
     },
     {
+      "projectID": 297818,
+      "fileID": 3922616,
+      "required": true,
+      "__meta": {
+        "name": "Auto Third Person",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 306612,
       "fileID": 4162908,
       "required": true,
