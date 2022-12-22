@@ -75,7 +75,7 @@
 		},
 		"layout": {
 			// The ordering of the items on the entry panel.
-			"entryPanelOrdering": "REGISTRY_DESCENDING",
+			"entryPanelOrdering": "REGISTRY_ASCENDING",
 			// Declares the maximum amount of recipes displayed in a page if possible.
 			"maxRecipesPerPage": 8,
 			// Declares the maximum amount of recipes displayed in a page if possible.
