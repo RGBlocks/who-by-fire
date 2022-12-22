@@ -137,6 +137,19 @@
       }
     },
     {
+      "projectID": 310111,
+      "fileID": 4167501,
+      "required": true,
+      "__meta": {
+        "name": "Roughly Enough Items Fabric/Forge (REI)",
+        "dependencies": [
+          306612,
+          348521,
+          419699
+        ]
+      }
+    },
+    {
       "projectID": 310205,
       "fileID": 3865813,
       "required": true,
@@ -175,6 +188,18 @@
       "required": true,
       "__meta": {
         "name": "Jade 🔍"
+      }
+    },
+    {
+      "projectID": 325625,
+      "fileID": 3837336,
+      "required": true,
+      "__meta": {
+        "name": "Roughly Enough Resources",
+        "dependencies": [
+          348521,
+          310111
+        ]
       }
     },
     {
@@ -436,6 +461,18 @@
         "dependencies": [
           306612,
           348521
+        ]
+      }
+    },
+    {
+      "projectID": 419699,
+      "fileID": 4147351,
+      "required": true,
+      "__meta": {
+        "name": "Architectury API (Fabric/Forge)",
+        "explicit": false,
+        "dependencies": [
+          306612
         ]
       }
     },
@@ -908,14 +945,6 @@
       }
     },
     {
-      "projectID": 580555,
-      "fileID": 4181350,
-      "required": true,
-      "__meta": {
-        "name": "EMI (Item and Recipe Viewer)"
-      }
-    },
-    {
       "projectID": 590988,
       "fileID": 4031234,
       "required": true,
@@ -979,6 +1008,17 @@
       "__meta": {
         "name": "PAUCAL",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 597988,
+      "fileID": 4109337,
+      "required": true,
+      "__meta": {
+        "name": "Roughly Enough Professions (REP)",
+        "dependencies": [
+          310111
+        ]
       }
     },
     {
@@ -1254,6 +1294,30 @@
       }
     },
     {
+      "projectID": 664356,
+      "fileID": 3963321,
+      "required": true,
+      "__meta": {
+        "name": "Roughly Enough Trades",
+        "dependencies": [
+          310111,
+          308769
+        ]
+      }
+    },
+    {
+      "projectID": 665532,
+      "fileID": 3963982,
+      "required": true,
+      "__meta": {
+        "name": "Roughly Enough Loot Tables",
+        "dependencies": [
+          308769,
+          310111
+        ]
+      }
+    },
+    {
       "projectID": 666940,
       "fileID": 4067996,
       "required": true,
@@ -1273,18 +1337,6 @@
       "__meta": {
         "name": "YetAnotherConfigLib",
         "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
-      "projectID": 681783,
-      "fileID": 4159530,
-      "required": true,
-      "__meta": {
-        "name": "EMI Loot",
-        "dependencies": [
-          580555,
           306612
         ]
       }
@@ -1379,28 +1431,6 @@
       "__meta": {
         "name": "Resourceful Config",
         "explicit": false
-      }
-    },
-    {
-      "projectID": 735523,
-      "fileID": 4171479,
-      "required": true,
-      "__meta": {
-        "name": "EMI Trades (Villager Trading EMI Plugin)",
-        "dependencies": [
-          580555
-        ]
-      }
-    },
-    {
-      "projectID": 735528,
-      "fileID": 4171487,
-      "required": true,
-      "__meta": {
-        "name": "EMIffect (Status Effects EMI Plugin)",
-        "dependencies": [
-          580555
-        ]
       }
     },
     {
