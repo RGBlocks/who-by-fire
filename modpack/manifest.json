@@ -622,6 +622,19 @@
       }
     },
     {
+      "projectID": 491073,
+      "fileID": 4066027,
+      "required": true,
+      "__meta": {
+        "name": "Inventorio (Fabric)",
+        "dependencies": [
+          308769,
+          306612,
+          348521
+        ]
+      }
+    },
+    {
       "projectID": 494585,
       "fileID": 3825040,
       "required": true,
