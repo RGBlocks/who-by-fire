@@ -30,4 +30,7 @@
 - Download the [BSL Shaders](https://www.curseforge.com/minecraft/customization/bsl-shaders)
 - Put them into the "shaderpacks/" folder of your modpack
 
-### 
+### Links
+
+- [Modrinth](https://modrinth.com/modpack/whobyfire)
+- [Curseforge](https://www.curseforge.com/minecraft/modpacks/who-by-fire)
