@@ -417,6 +417,18 @@
       }
     },
     {
+      "projectID": 410127,
+      "fileID": 4118479,
+      "required": true,
+      "__meta": {
+        "name": "Mythic Metals",
+        "dependencies": [
+          438718,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 411557,
       "fileID": 4087782,
       "required": true,
@@ -525,6 +537,18 @@
         "name": "Spellbound Enchantments [Fabric]",
         "dependencies": [
           348521
+        ]
+      }
+    },
+    {
+      "projectID": 438718,
+      "fileID": 4073356,
+      "required": true,
+      "__meta": {
+        "name": "Alloy Forgery",
+        "explicit": false,
+        "dependencies": [
+          532610
         ]
       }
     },
@@ -870,6 +894,18 @@
       "required": true,
       "__meta": {
         "name": "Chisel Refabricated"
+      }
+    },
+    {
+      "projectID": 552128,
+      "fileID": 4142235,
+      "required": true,
+      "__meta": {
+        "name": "Mythic Metals Decorations",
+        "dependencies": [
+          532610,
+          410127
+        ]
       }
     },
     {
