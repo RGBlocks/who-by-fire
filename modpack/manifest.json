@@ -746,6 +746,17 @@
       }
     },
     {
+      "projectID": 527045,
+      "fileID": 4075611,
+      "required": true,
+      "__meta": {
+        "name": "Dense Ores: Refabricated",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 527334,
       "fileID": 4127477,
       "required": true,
