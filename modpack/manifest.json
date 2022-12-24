@@ -337,6 +337,17 @@
       }
     },
     {
+      "projectID": 392015,
+      "fileID": 4098410,
+      "required": true,
+      "__meta": {
+        "name": "Eldritch Mobs",
+        "dependencies": [
+          348521
+        ]
+      }
+    },
+    {
       "projectID": 393236,
       "fileID": 4031404,
       "required": true,
