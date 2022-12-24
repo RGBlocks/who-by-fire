@@ -476,6 +476,18 @@
       }
     },
     {
+      "projectID": 416243,
+      "fileID": 3866287,
+      "required": true,
+      "__meta": {
+        "name": "Custom Spawns [Fabric]",
+        "dependencies": [
+          306612,
+          348521
+        ]
+      }
+    },
+    {
       "projectID": 417510,
       "fileID": 4101831,
       "required": true,
