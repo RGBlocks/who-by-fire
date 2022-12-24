@@ -518,6 +518,17 @@
       }
     },
     {
+      "projectID": 434965,
+      "fileID": 3957977,
+      "required": true,
+      "__meta": {
+        "name": "Spellbound Enchantments [Fabric]",
+        "dependencies": [
+          348521
+        ]
+      }
+    },
+    {
       "projectID": 447673,
       "fileID": 4126062,
       "required": true,
