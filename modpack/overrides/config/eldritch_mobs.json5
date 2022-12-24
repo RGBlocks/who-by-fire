@@ -46,7 +46,7 @@
 	},
 	"blindingConfig": {
 		"name": "Blinding",
-		"disabled": false,
+		"disabled": true,
 		"cooldown": 300,
 		"duration": 80,
 		"amplifier": 0
