@@ -779,6 +779,14 @@
       }
     },
     {
+      "projectID": 523327,
+      "fileID": 3941958,
+      "required": true,
+      "__meta": {
+        "name": "Savage Ender Dragon[Forge/Fabric]"
+      }
+    },
+    {
       "projectID": 525586,
       "fileID": 4031673,
       "required": true,
