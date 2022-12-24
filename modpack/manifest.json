@@ -1169,6 +1169,18 @@
       }
     },
     {
+      "projectID": 615106,
+      "fileID": 4179748,
+      "required": true,
+      "__meta": {
+        "name": "Lootr (Fabric)",
+        "dependencies": [
+          348521,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 615948,
       "fileID": 4132193,
       "required": true,
