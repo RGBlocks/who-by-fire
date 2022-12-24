@@ -1,25 +1,25 @@
 {
-	"EliteSpawnRates": 0.2,
-	"UltraSpawnRates": 0,
+	"EliteSpawnRates": 0.6,
+	"UltraSpawnRates": 0.2,
 	"EldritchSpawnRates": 0,
-	"EliteHealthMultiplier": 1.2,
-	"UltraHealthMultiplier": 1.0,
+	"EliteHealthMultiplier": 1.0,
+	"UltraHealthMultiplier": 1.2,
 	"EldritchHealthMultiplier": 1.0,
 	"EliteXpMultiplier": 1.2,
-	"UltraXpMultiplier": 1,
+	"UltraXpMultiplier": 1.4,
 	"EldritchXpMultiplier": 1,
 	"EliteMinModifiers": 1,
-	"UltraMinModifiers": 1,
+	"UltraMinModifiers": 2,
 	"EldritchMinModifiers": 1,
 	"EliteMaxModifiers": 1,
-	"UltraMaxModifiers": 1,
+	"UltraMaxModifiers": 3,
 	"EldritchMaxModifiers": 1,
 	// Prevent named mobs from becoming Elite, Ultra, and Eldritch
 	"ignoreNamedMobs": true,
 	// Turn off titles for mobs
 	"turnOffTitles": false,
 	// Turn off boss bars
-	"turnOffBossBars": true,
+	"turnOffBossBars": false,
 	// Boss bars appears when placing crosshair on buffed mob
 	"crosshairBossBars": true,
 	// Buffed mobs are highlighted after being damaged
