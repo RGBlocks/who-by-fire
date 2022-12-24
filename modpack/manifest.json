@@ -518,14 +518,6 @@
       }
     },
     {
-      "projectID": 443476,
-      "fileID": 3852016,
-      "required": true,
-      "__meta": {
-        "name": "Wandering Collector"
-      }
-    },
-    {
       "projectID": 447673,
       "fileID": 4126062,
       "required": true,
