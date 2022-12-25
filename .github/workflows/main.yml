@@ -42,11 +42,6 @@ jobs:
         id: changelog
         env:
           REPO: ${{ github.repository }}
-      - name: Store changelog
-        uses: actions/upload-artifact@v2
-        with:
-          name: changelog
-          path: CHANGELOG.md
 
   build:
     runs-on: ubuntu-latest
@@ -88,7 +83,7 @@ jobs:
       - name: Create release
         uses: softprops/action-gh-release@v1
         with:
-          body_path: CHANGELOG.md
+          body: ${{ needs.changelog.outputs.changelog }}
           files: ${{ needs.modpack-info.outputs.projectname }}-${{ needs.modpack-info.outputs.tag }}.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -120,5 +115,5 @@ jobs:
           file_path: ${{ needs.modpack-info.outputs.projectname }}-${{ needs.modpack-info.outputs.tag }}.zip
           changelog: "${{ needs.changelog.outputs.changelog }}"
           changelog_type: markdown
-          game_versions: "${{ needs.modpack-info.outputs.version }}" 
+          game_versions: "Minecraft 1.19:1.19.2" 
           release_type: ${{ steps.release-type.outputs.type }}
