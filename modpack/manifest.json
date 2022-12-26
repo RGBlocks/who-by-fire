@@ -33,6 +33,20 @@
       }
     },
     {
+      "projectID": 238086,
+      "fileID": 4238467,
+      "required": true,
+      "__meta": {
+        "name": "KubeJS",
+        "dependencies": [
+          419699,
+          416294,
+          306612,
+          557735
+        ]
+      }
+    },
+    {
       "projectID": 246320,
       "fileID": 3878704,
       "required": true,
@@ -493,6 +507,15 @@
           306612,
           348521
         ]
+      }
+    },
+    {
+      "projectID": 416294,
+      "fileID": 4085694,
+      "required": true,
+      "__meta": {
+        "name": "Rhino",
+        "explicit": false
       }
     },
     {
@@ -973,6 +996,15 @@
           306612,
           656526
         ]
+      }
+    },
+    {
+      "projectID": 557735,
+      "fileID": 4134668,
+      "required": true,
+      "__meta": {
+        "name": "Ingredient Extension API",
+        "explicit": false
       }
     },
     {
