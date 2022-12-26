@@ -12,7 +12,7 @@
 		// This value determines if a PLAYER should lose HEARTS AT ALL; The default is false
 		"DisableHeartLoss": false,
 		// When this is false, players that lose all lives/hearts will go into spectator mode. Otherwise, they'll be banned until unbanned; The default is true
-		"BannedUponLosingAllHearts": false
+		"BannedUponLosingAllHearts": true
 	},
 	// This category is the configuration for items and enchantments in this mod
 	"ItemsAndEnchantments": {
