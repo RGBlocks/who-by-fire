@@ -1320,17 +1320,6 @@
       }
     },
     {
-      "projectID": 631710,
-      "fileID": 4136888,
-      "required": true,
-      "__meta": {
-        "name": "Solid Mobs - [Fabric & Forge]",
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
       "projectID": 633518,
       "fileID": 3836816,
       "required": true,
