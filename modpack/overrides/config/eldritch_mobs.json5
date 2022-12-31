@@ -25,11 +25,11 @@
 	// Buffed mobs are highlighted after being damaged
 	"turnOnGlowingMobs": false,
 	// Turn off loot for buffed mobs
-	"disableLootDrops": false,
+	"disableLootDrops": true,
 	// If true, buffed mobs only drop loot when killed by players
 	"onlyDropLootIfKilledByPlayers": true,
 	// Buffed mobs also drop the loot of the tier below them + the loot of their tier.
-	"combinedLootDrop": true,
+	"combinedLootDrop": false,
 	// Buffed mobs have generic titles w/o abilities
 	"genericTitles": false,
 	"alchemistConfig": {
