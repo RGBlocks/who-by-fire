@@ -1265,6 +1265,18 @@
       }
     },
     {
+      "projectID": 623800,
+      "fileID": 4276784,
+      "required": true,
+      "__meta": {
+        "name": "Dynamic Crosshair",
+        "dependencies": [
+          348521,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 624165,
       "fileID": 4125637,
       "required": true,
