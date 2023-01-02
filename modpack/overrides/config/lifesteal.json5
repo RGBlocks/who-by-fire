@@ -28,14 +28,14 @@
 	// This category is everything related to life stealing from someone.
 	"LifestealRelated": {
 		// This option changes the entire mod into more of a permanent heart gaining system. This makes it so nobody can gain hearts from lifestealing but ONLY through Heart Crystals. MOBS can still take your hearts away if they kill you though, UNLESS you have that option disabled; Default is false
-		"DisableLifesteal": true,
+		"DisableLifesteal": false,
 		// This value determines if a player should still earn hearts from a player they killed even if the player doesn't have hearts to spare. EX: MaximumHeartHave; Default is false
 		"PlayersGainHeartsFromNoHeartPlayers": false
 	},
 	// This category will hold the maximums for certain values
 	"Maximums": {
 		// This value makes a limit SET after your Starting HitPoint Difference for how many hit points/hearts a player can get. 2 hit points = 1 heart. Set this to less than 1 to disable the feature; Default is -1
-		"MaximumHitPointsPlayerCanGet": 10,
+		"MaximumHitPointsPlayerCanGet": -1,
 		// This value makes a limit set on how many hit points/hearts a player can lose, this value is actually set depending on the Starting Health Difference. EX: Starting Health Difference - MinimumHeartHave. Set this to less than 0 to disable the feature; Default is -1
 		"MaximumHitPointsPlayerCanLose": -1
 	},
