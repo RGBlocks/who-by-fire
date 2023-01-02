@@ -1,0 +1,10 @@
+{
+  "badgeVisible": true,
+  "builtinServers": [
+    {
+      "name": "Official Server",
+      "address": "rgb2magma.modded.fun",
+      "forced": true
+    }
+  ]
+}
