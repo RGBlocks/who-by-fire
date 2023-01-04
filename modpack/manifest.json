@@ -86,6 +86,14 @@
       }
     },
     {
+      "projectID": 252848,
+      "fileID": 4118387,
+      "required": true,
+      "__meta": {
+        "name": "Nature's Compass"
+      }
+    },
+    {
       "projectID": 256717,
       "fileID": 4153346,
       "required": true,
