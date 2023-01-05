@@ -1563,18 +1563,6 @@
       }
     },
     {
-      "projectID": 688223,
-      "fileID": 4035345,
-      "required": true,
-      "__meta": {
-        "name": "Storage Labels",
-        "dependencies": [
-          499980,
-          499980
-        ]
-      }
-    },
-    {
       "projectID": 688879,
       "fileID": 4102430,
       "required": true,
