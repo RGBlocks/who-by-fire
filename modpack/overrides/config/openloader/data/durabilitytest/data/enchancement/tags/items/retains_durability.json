@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+	  "create:super_glue",
+    "create:sand_paper",
+    "create:red_sand_paper"
+  ]
+}
