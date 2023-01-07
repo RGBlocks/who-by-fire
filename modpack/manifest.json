@@ -808,6 +808,17 @@
       }
     },
     {
+      "projectID": 506898,
+      "fileID": 3823985,
+      "required": true,
+      "__meta": {
+        "name": "Detail Armor Bar [Fabric]",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 511319,
       "fileID": 4126247,
       "required": true,
