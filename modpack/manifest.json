@@ -414,6 +414,18 @@
       }
     },
     {
+      "projectID": 397903,
+      "fileID": 3929278,
+      "required": true,
+      "__meta": {
+        "name": "Elytra Slot (Fabric)",
+        "dependencies": [
+          341284,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 399798,
       "fileID": 3854720,
       "required": true,
