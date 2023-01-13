@@ -893,6 +893,18 @@
       }
     },
     {
+      "projectID": 526606,
+      "fileID": 4136183,
+      "required": true,
+      "__meta": {
+        "name": "Collective (Legacy Fabric)",
+        "explicit": false,
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 527045,
       "fileID": 4075611,
       "required": true,
@@ -910,6 +922,18 @@
       "__meta": {
         "name": "Language Reload",
         "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 529954,
+      "fileID": 4135602,
+      "required": true,
+      "__meta": {
+        "name": "Inventory Totem (Fabric)",
+        "dependencies": [
+          526606,
           306612
         ]
       }
