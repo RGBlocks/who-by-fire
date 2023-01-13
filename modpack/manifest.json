@@ -1641,6 +1641,17 @@
       }
     },
     {
+      "projectID": 739872,
+      "fileID": 4183388,
+      "required": true,
+      "__meta": {
+        "name": "Create Deco Fabric",
+        "dependencies": [
+          624165
+        ]
+      }
+    },
+    {
       "projectID": 759430,
       "fileID": 4297427,
       "required": true,
