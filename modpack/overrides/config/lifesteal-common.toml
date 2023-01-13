@@ -35,7 +35,7 @@
 	#Heart Cores can heal on default 25% of your health if right clicked. This value determines if they should be disabled.
 	"Disable Heart Cores:" = false
 	#This value determines whether or not revive crystals are disabled. If you're in singleplayer, this value is always true.
-	"Disable Revive Crystals:" = false
+	"Disable Revive Crystals:" = true
 
 #This category is everything related to life stealing from someone.
 ["Lifesteal Related"]
